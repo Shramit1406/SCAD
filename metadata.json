@@ -1,0 +1,5 @@
+{
+  "name": "Supply Chain Analytics Dashboard",
+  "description": "A prototype of a Supply Chain Analytics Dashboard using a Hierarchical Metric Tree to demonstrate root cause analysis for the Perfect Order Fulfillment (OTIF) KPI.",
+  "requestFramePermissions": []
+}
